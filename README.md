@@ -1,2 +1,3 @@
-# Audio-to-text-script
-Simple Google Colab based script based on OpenAI API for audio to text transcription
+# AudioTrans - audio to text script
+Simple Google Colab based script for audio to text transcription.
+Built with Open AI API. Powered by Whisper.
